@@ -6,18 +6,21 @@
 package l0003;
 
 /**
+ ** L03 - FRUIT SHOP
  *
- * @author Tam Pham
+ * @author TUPTCE181028
  */
 public class L0003 {
 
     /**
+     * The Main method
+     *
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-         ManagementCustomer obj = new  ManagementCustomer();
+        ManagementCustomer obj = new ManagementCustomer();
         obj.execute();
     }
-    
+
 }
